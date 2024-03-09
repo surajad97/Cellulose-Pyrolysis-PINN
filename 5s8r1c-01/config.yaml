@@ -1,0 +1,17 @@
+lr_max: 0.001
+loss_train: 0.02984317274264855
+grad_max: 100.0
+maxiters: 50000
+n_epoch: 5000
+lr_min: 1.0e-5
+is_restart: false
+lr_decay: 0.5
+lr_decay_step: 500
+nc: 1
+expr_name: "5s8r1c-02"
+nr: 8
+n_plot: 10
+ns: 6
+lb: 1.0e-8
+w_decay: 1.0e-8
+loss_val: 0.039894650786565074
