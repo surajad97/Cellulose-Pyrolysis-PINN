@@ -1,0 +1,1 @@
+julia ./train.jl
